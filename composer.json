@@ -1,0 +1,14 @@
+{
+    "name": "acer/uts_blog_tiara",
+    "description": "Tugas 1 Blog",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Tiara",
+            "email": "ikatiara1607@gmail.com"
+        }
+    ]
+}
